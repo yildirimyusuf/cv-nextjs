@@ -6,4 +6,4 @@ I have finally decided to create a cv resume project for personal purposes. If y
 - My medium posts widget
 - Linkedin integration
 
-![image]()
+[![image](https://i.hizliresim.com/JVmALB.png)](https://hizliresim.com/JVmALB)
