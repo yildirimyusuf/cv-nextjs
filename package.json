@@ -1,0 +1,48 @@
+{
+  "name": "mu-resume",
+  "version": "1.0.0",
+  "description": "Murat Umutlu's resume project",
+  "main": "index.js",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "next": "^9.1.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.14.3",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "postcss-preset-env": "^6.7.0",
+    "prettier": "^1.18.2",
+    "tailwindcss": "^1.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muratumutlu/mu-resume.git"
+  },
+  "keywords": [
+    "cv",
+    "resume",
+    "frontend",
+    "developer"
+  ],
+  "author": "Murat Umutlu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muratumutlu/mu-resume/issues"
+  },
+  "homepage": "https://github.com/muratumutlu/mu-resume#readme"
+}
